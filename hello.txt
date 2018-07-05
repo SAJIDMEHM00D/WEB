@@ -1,3 +1,16 @@
+
+
+Alien@Alien-PC MINGW64 ~/Desktop/New/Practice (master)
+$ git commit -m "testing"
+[master (root-commit) 43d7b76] testing
+ 1 file changed, 7 insertions(+)
+ create mode 100644 hello.txt
+
+Alien@Alien-PC MINGW64 ~/Desktop/New/Practice (master)
+$ git log
+commit 43d7b76c205018c5add168e58ff4026b2ff37d0c (HEAD -> master)
+Author: Sajid Mehmood <sajidroxx@gmail.com>
+Date:   Thu Jul 5 16:20:51 2018 +0500
 git init
 Reinitialized existing Git repository in C:/Users/Alien/Desktop/New/Practice/.git/
 
